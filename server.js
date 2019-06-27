@@ -16,7 +16,7 @@ const dob = knex({
   	connection: {
     host : '127.0.0.1',
     user : 'postgres',
-    password : 'SlipperY',
+    password : 'Slippery',
     database : 'testdb'
   }
 })
